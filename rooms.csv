@@ -1,0 +1,7 @@
+room_id,name,capacity,room_type,has_projector,has_computers,building
+R01,Lecture Hall A,60,lecture,1,0,Main
+R02,Lecture Hall B,50,lecture,1,0,Main
+R03,Computer Lab 1,40,lab,1,1,Science
+R04,Computer Lab 2,35,lab,1,1,Science
+R05,Tutorial Room,30,lecture,0,0,Main
+R06,Seminar Room,25,lecture,1,0,Annex

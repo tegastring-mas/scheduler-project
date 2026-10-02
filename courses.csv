@@ -1,0 +1,19 @@
+course_id,title,instructor_id,enrollment_count,duration_hours,required_room_type,is_lab
+CS101,Introduction to Computer Science,INS01,45,2,lecture,0
+CS102,Programming Fundamentals,INS02,40,2,lab,1
+CS201,Data Structures,INS01,35,2,lecture,0
+CS202,Algorithms,INS03,30,2,lecture,0
+CS301,Database Systems,INS04,38,2,lab,1
+CS302,Operating Systems,INS05,32,2,lecture,0
+CS303,Computer Networks,INS06,28,2,lab,1
+CS401,Artificial Intelligence,INS07,25,2,lecture,0
+CS402,Machine Learning,INS08,22,2,lab,1
+CS403,Software Engineering,INS09,30,2,lecture,0
+MAT101,Calculus I,INS01,50,2,lecture,0
+MAT102,Linear Algebra,INS03,42,2,lecture,0
+MAT201,Discrete Mathematics,INS02,35,2,lecture,0
+PHY101,General Physics,INS04,48,2,lecture,0
+PHY102,Physics Laboratory,INS05,30,2,lab,1
+ENG101,Technical Writing,INS06,40,2,lecture,0
+STA101,Statistics,INS07,38,2,lecture,0
+CSC499,Final Year Project,INS08,20,2,lab,1
